@@ -1,0 +1,13 @@
+{
+  "name": "patchnotes-redis",
+  "version": "1.0.0",
+  "description": "PatchNotes Redis implementation — CS3200 Project 3",
+  "type": "module",
+  "main": "redis_script.js",
+  "scripts": {
+    "start": "node redis_script.js"
+  },
+  "dependencies": {
+    "redis": "^4.6.13"
+  }
+}
